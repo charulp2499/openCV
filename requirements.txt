@@ -4,3 +4,4 @@ fer
 numpy
 tensorflow
 pytorch
+PIL
