@@ -3,4 +3,3 @@ streamlit
 fer
 numpy
 tensorflow
-pytorch
