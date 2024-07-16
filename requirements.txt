@@ -2,3 +2,5 @@ opencv-python-headless
 streamlit
 fer
 numpy
+tensorflow
+pytorch
